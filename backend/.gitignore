@@ -24,3 +24,7 @@ prisma/migrations/dev.db
 # IDE
 .vscode/
 .idea/
+/src/generated/prisma
+
+# Prisma generated client
+src/generated/
